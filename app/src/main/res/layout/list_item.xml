@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp" >
+        <TextView
+            android:id="@+id/list_name"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_margin="4dp"
+            android:background="@color/blue_1"
+            android:text="外曾祖父"/>
+        <TextView
+            android:id="@+id/list_relation"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="8"
+            android:gravity="left|center"
+            android:layout_margin="4dp"
+            android:textSize="16sp"
+            android:text="我的妈妈的爸爸的妻子的儿子"/>
+            />
+        <ImageView
+            android:id="@+id/list_image"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:gravity="center"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/ic_chevron_right_grey600_48dp"/>
+            />
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_seniority"
+            android:icon="@drawable/ic_dashboard_black_48dp"
+            android:title="@string/nav_seniority" />
+        <item
+            android:id="@+id/nav_records"
+            android:icon="@drawable/ic_list_black_48dp"
+            android:title="@string/nav_records" />
+    </group>
+
+    <item android:title="@string/nav_system">
+        <menu >
+            <item
+                android:id="@+id/nav_clear"
+                android:icon="@drawable/ic_clear_all_black_48dp"
+                android:title="@string/nav_clearrecords" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_person_outline_black_48dp"
+                android:title="@string/nav_about" />
+            <item android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black_48dp"
+                android:title="@string/nav_exit" />
+        </menu>
+    </item>
+
+</menu>

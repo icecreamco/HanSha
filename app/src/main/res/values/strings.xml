@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">喊啥</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    
+    <!-- navigation -->
+    <string name="nav_seniority">查看辈分</string>
+    <string name="nav_records">历史记录</string>
+    <string name="nav_clearrecords">清空记录</string>
+    <string name="nav_about">关于我们</string>
+    <string name="nav_exit">退出</string>
+
+    <string name="nav_system">System</string>
+
+    <!-- Toast -->
+    <string name="exit_toast">再按一次退出喊啥~</string>
+
+    <!-- button-->
+    <string name="qizi">妻子</string>
+    <string name="zhangfu">丈夫</string>
+    <string name="daerzi">大儿子</string>
+    <string name="xiaoerzi">小儿子</string>
+    <string name="danver">大女儿</string>
+    <string name="xiaonver">小女儿</string>
+    <string name="fuqin">父亲</string>
+    <string name="muqin">母亲</string>
+    <string name="gege">哥哥</string>
+    <string name="didi">弟弟</string>
+    <string name="jiejie">姐姐</string>
+    <string name="meimei">妹妹</string>
+    <string name="clear">清空</string>
+    <string name="remove">清除 </string>
+
+    <!--about-->
+    <string name="ablou_text">谢谢您使用此产品，如果对此产品有任何疑问或建议，欢迎您联系我们～</string>
+    <string name="ablou_address">Email : icecreamco@163.com</string>
+    <string name="about_copyright">Copyright © icecreamco</string>
+</resources>
